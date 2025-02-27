@@ -1,0 +1,441 @@
+[33mcommit b517eac2a42d06ea1791b7f0c939a3f0bea668fe[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Thu Feb 27 17:41:40 2025 +0000
+
+    dojob
+
+[33mcommit 0e5ba8309055ee2cf6dbba7c2afe6269f08c2564[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Thu Feb 27 17:38:45 2025 +0000
+
+    yes
+
+[33mcommit 7677438860742857b23c96451435c86da77a37b3[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Thu Feb 27 17:20:44 2025 +0000
+
+    yes
+
+[33mcommit b61710865c1929b77a3a83c576ad44286457e67b[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Thu Feb 27 17:20:02 2025 +0000
+
+    yes
+
+[33mcommit 56216494854785bb8a00bf8dc519241afb7777e3[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Thu Feb 27 17:19:56 2025 +0000
+
+    yes
+
+[33mcommit 3ed150cb98334592e06050ed292250f89a69edd6[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Thu Feb 27 17:19:26 2025 +0000
+
+    yeah
+
+[33mcommit 58f93ce027713f08c6f4b05c1ec140b6f5adeba7[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Thu Feb 27 16:42:33 2025 +0000
+
+    ok
+
+[33mcommit 65571a9be40356ee10568a1302cebe043129b015[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Thu Feb 27 15:45:50 2025 +0000
+
+    good
+
+[33mcommit ee12f0fc05d637ee206d511c13d752dfe8b3710d[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Wed Feb 26 16:33:06 2025 +0000
+
+    ok
+
+[33mcommit 1b702e743d49e4870aefc6fb49146a5ae4fa9faa[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Wed Feb 26 16:03:12 2025 +0000
+
+    yes
+
+[33mcommit 8f3aab94f5d9c87500020a2759d590523d2bd27b[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Wed Feb 26 15:57:46 2025 +0000
+
+    done
+
+[33mcommit 53b38fb08e5e6927cd925874b600bd450c61caf8[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Tue Feb 25 18:56:51 2025 +0000
+
+    dob
+
+[33mcommit d9913942d7d2ae4ace7123fc08e968a5a097b2fd[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Fri Feb 21 17:35:07 2025 +0000
+
+    ok
+
+[33mcommit 0b754364ec74d802defe8d6c0edb6e4ef5c4520f[m
+Author: ashokkumarpola <pola.ashok123439@gmail.com>
+Date:   Fri Feb 21 17:34:16 2025 +0000
+
+    done
+
+[33mcommit 4ba5601eb9b9aed1d01ab79775e3af228216ff6f[m
+Merge: e58c6a9 1cadbbb
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Thu Sep 12 08:38:39 2019 -0700
+
+    Merge pull request #45 from abouklila/patch-2
+    
+    Update Streaming-Chapter_21_Structured_Streaming_Basics.scala
+
+[33mcommit e58c6a9d2f5be480b5a8525734ed794d3ba3a999[m
+Merge: 244db39 cb90758
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Thu Sep 12 08:38:18 2019 -0700
+
+    Merge pull request #46 from abouklila/patch-3
+    
+    Update Streaming-Chapter_22_Event-Time_and_Stateful_Processing.py
+
+[33mcommit cb90758e249e2ef71760575a3e21a5ef9f0b69ec[m
+Author: abouklila <sherif.abouklila@gmail.com>
+Date:   Thu Sep 12 15:07:02 2019 +0200
+
+    Update Streaming-Chapter_22_Event-Time_and_Stateful_Processing.py
+    
+    remove a backslash.
+
+[33mcommit 1cadbbba78b43dbc2e83c71f18b640b2c460f7d5[m
+Author: abouklila <sherif.abouklila@gmail.com>
+Date:   Wed Sep 11 16:40:39 2019 +0200
+
+    Update Streaming-Chapter_21_Structured_Streaming_Basics.scala
+    
+    no backslash \
+
+[33mcommit 244db3928df29b2902009cf65a50073401c8308d[m
+Merge: 38e8814 5118583
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Fri Jun 14 09:19:02 2019 -0700
+
+    Merge pull request #42 from adigiosaffatte/fixing-chapter3
+    
+    fixing chapter3 - missing "sort" command
+
+[33mcommit 511858391146f9a45d4de21df0ca367ad1387ca0[m
+Author: Andrea Di Giosaffatte <fatte@hotmail.it>
+Date:   Fri Jun 14 18:18:35 2019 +0200
+
+    Update A_Gentle_Introduction_to_Spark-Chapter_3_A_Tour_of_Sparks_Toolset.py
+    
+    space removed
+
+[33mcommit e476b903cd8255b5324f0a0aa251178f6d381010[m
+Author: Andrea Di Giosaffatte <andrea.digiosaffatte@mediaset.it>
+Date:   Fri Jun 14 12:45:25 2019 +0200
+
+    fixed chapter3 command missing order
+
+[33mcommit 38e881406cd424991a624dddb7e68718747b626b[m
+Merge: 4d837f8 065fab6
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Wed Oct 10 08:55:21 2018 -0700
+
+    Merge pull request #31 from neeleshkumar-mannur/patch-4
+    
+    Added Java code for Chapter 4
+
+[33mcommit 065fab63ca2b639bc0b121c00c7229eec2e01b98[m
+Author: Neeleshkumar Mannur <neelesh.srinivasan@gmail.com>
+Date:   Sun Oct 7 22:59:01 2018 +0530
+
+    Added Java code for Chapter 4
+    
+    The last statement of ByteType didn't have a purpose in the Java code. Thus, I have not added it.
+
+[33mcommit 4d837f8fd8e145ad10c6fd8a60f816c9bb8673a3[m
+Merge: 3255bc3 05b1959
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Mon Oct 1 01:04:18 2018 -0700
+
+    Merge pull request #30 from neeleshkumar-mannur/patch-3
+    
+    Added Java code for Chapter 2
+
+[33mcommit 05b19594e96c48b97739aa9bed61a26320d8f077[m
+Author: Neeleshkumar Mannur <neelesh.srinivasan@gmail.com>
+Date:   Mon Oct 1 00:32:39 2018 +0530
+
+    Added Java code for Chapter 2
+
+[33mcommit 3255bc360e3cd8c3d9393b8d8c4e127b4358e044[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Wed Aug 29 09:13:53 2018 -0700
+
+    Update A_Gentle_Introduction_to_Spark-Chapter_3_A_Tour_of_Sparks_Toolset.scala
+    
+    Resolve #25
+
+[33mcommit d339d19567f3e79bf0be765c8fecadebd4831549[m
+Merge: a44d894 0d3252b
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Tue Aug 14 08:53:04 2018 -0700
+
+    Merge pull request #18 from neeleshkumar-mannur/patch-1
+    
+    Implementation of Chapter 24 codes in Java
+
+[33mcommit 0d3252b3088b6f0abd207bbd0ecb63b292e7b8ef[m
+Author: Neeleshkumar Mannur <neelesh.srinivasan@gmail.com>
+Date:   Tue Aug 14 19:44:29 2018 +0530
+
+    Added the requested comment
+
+[33mcommit a44d894a207ecced7f6d4136d9fa0132bd642cf3[m
+Merge: 3b94a0d da38239
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Tue Jul 10 14:03:54 2018 -0700
+
+    Merge pull request #21 from evohnave/master
+    
+    Correct color_locator alias term
+
+[33mcommit da382393ef9eaed2ee2e2263376baee73565bd8e[m
+Author: evohnave <evohnave@users.noreply.github.com>
+Date:   Tue Jul 10 16:43:52 2018 -0400
+
+    Correct color_locator alias term
+
+[33mcommit 3b94a0d8207649089d961e4f0eaad81b027856a1[m
+Merge: dcd0242 5b63357
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Tue Jul 10 13:40:38 2018 -0700
+
+    Merge pull request #19 from neeleshkumar-mannur/patch-2
+    
+    Added dependency for Spark ML
+
+[33mcommit 5b633574b35d1d213b27538d951957cae8e1c493[m
+Author: Neeleshkumar Mannur <neelesh.srinivasan@gmail.com>
+Date:   Mon Jul 9 17:09:49 2018 +0530
+
+    Added dependency for Spark ML
+
+[33mcommit 21cf96bbca67620a7fefaa014db00a5e20bde402[m
+Author: Neeleshkumar Mannur <neelesh.srinivasan@gmail.com>
+Date:   Mon Jul 9 17:06:55 2018 +0530
+
+    Implementation of Chapter 24 codes in Java
+    
+    I will keep adding codes for all the chapters subsequently
+
+[33mcommit dcd02427616444db3987ab20f09accfba5d4003f[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Sat May 5 08:45:26 2018 -0700
+
+    Update README.md
+
+[33mcommit 8df1406e6c687cf9ab91a6932b6a08877edbd8b6[m
+Merge: 929579b c99755f
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Wed Apr 4 06:29:01 2018 -0700
+
+    Merge pull request #14 from stbof/readme
+    
+    Update the readme to introduce Databricks and point to the datasets in Databricks
+
+[33mcommit c99755f771abbcd36649927bdb1af33c1fbfc4b7[m
+Author: Stephanie Bodoff <stephanie.bodoff@databricks.com>
+Date:   Mon Apr 2 12:21:56 2018 -0700
+
+    Update the readme to introduce Databricks and point to the datasets in Databricks.
+
+[33mcommit 929579bce5bb34e6d15ffadcb1f0cb7ab5a10bee[m
+Merge: b792716 1b3ae96
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Mon Apr 2 08:45:01 2018 -0700
+
+    Merge pull request #12 from hajimurtaza/patch-2
+    
+    Fixed error on line 67
+
+[33mcommit 1b3ae96290f6e110abd197e032be51f1fad8c153[m
+Author: Murtaza Haji <murtazahaji2@gmail.com>
+Date:   Sun Apr 1 13:09:18 2018 -0400
+
+    Fixed error on line 67
+    
+    Indentation error
+
+[33mcommit b79271627fd53ee999124df8880811374b3820a3[m
+Merge: 8583e81 02bf4e9
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Fri Mar 30 18:10:14 2018 -0700
+
+    Merge pull request #10 from hajimurtaza/patch-1
+    
+    Add in databricks datasets path
+
+[33mcommit 02bf4e9c8f04e8bb74d038690a210b888567bd4c[m
+Author: Murtaza Haji <murtazahaji2@gmail.com>
+Date:   Fri Mar 30 19:23:39 2018 -0400
+
+    Update README.md
+    
+    file path fixed for accessing data directly from databricks-dataset
+
+[33mcommit 8583e815f54424446123afd9c1f07cb1614f7147[m
+Merge: 4ab22b2 7563a51
+Author: Bill Chambers <bill@databricks.com>
+Date:   Fri Mar 30 08:51:52 2018 -0700
+
+    Merge branch 'master' of github.com:databricks/Spark-The-Definitive-Guide
+
+[33mcommit 4ab22b22a614dc60aeff557659f2ba20db35d5d5[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Fri Mar 30 08:51:39 2018 -0700
+
+    add missing images
+
+[33mcommit 7563a51f88e8f65f8e7e9a06c7ff9d5d61287ca8[m
+Merge: a738621 9e7b1a3
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Fri Mar 2 10:52:23 2018 -0800
+
+    Merge pull request #4 from stbof/temp-view
+    
+    Add temp view to Python notebook
+
+[33mcommit 9e7b1a3330c6b81cec57f282487ce0c0be74434c[m
+Author: Stephanie Bodoff <stephanie.bodoff@databricks.com>
+Date:   Fri Mar 2 10:39:56 2018 -0800
+
+    Add temp view to Python notebook.
+
+[33mcommit a738621cbb6b8fba9254daac1853b9d71e30b2c9[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Mon Feb 12 20:06:07 2018 -0800
+
+    remove empty files
+
+[33mcommit 3cf58ac72272039031415d36867ea8bae48dcf77[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Mon Feb 12 20:04:23 2018 -0800
+
+    v0 of code
+
+[33mcommit 4f04d88794f42faf9267be4ccb7558c0b3320414[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Mon Feb 12 15:26:04 2018 -0800
+
+    updates
+
+[33mcommit 8b482e6be18cfd11afb906553696cbf86fdcc02b[m
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Sun Nov 19 21:21:47 2017 -0800
+
+    Update README.md
+    
+    updated instructions
+
+[33mcommit 8118c12fc762f82326352d355643a9d2b95383b5[m
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Sun Nov 19 21:18:57 2017 -0800
+
+    Delete run-on-databricks.md
+    
+    this is unnecessary, just putting in read me.
+
+[33mcommit 02bf09523fc5306c6bfe8f4cfc33fbc796ed6a77[m
+Author: anabranch <wac.chambers@gmail.com>
+Date:   Thu Jul 27 20:00:37 2017 -0700
+
+    spark-submit updates
+
+[33mcommit 9e9a7591ec3e568c9e0f8ccab9d924adbebe60e8[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Fri Jun 30 14:56:26 2017 -0700
+
+    more updates
+
+[33mcommit aa9e658e90f449a0f7ae9c871eee0685dfe09e15[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Fri Jun 30 14:54:06 2017 -0700
+
+    reset activity data
+
+[33mcommit e7575cb5d9469a9b7df7891ba8a463d24fe05b1f[m
+Merge: 83ab606 018ad4d
+Author: Bill Chambers <bill@databricks.com>
+Date:   Mon Jun 26 17:36:35 2017 -0700
+
+    Merge branch 'master' of github.com:databricks/Spark-The-Definitive-Guide
+
+[33mcommit 83ab606b837fa6df81867687a7ad79b020e23c0b[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Mon Jun 26 17:30:31 2017 -0700
+
+    files
+
+[33mcommit 018ad4da7936ea147b0188bd17adecd97989dd6c[m
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Mon Jun 12 20:17:49 2017 -0700
+
+    Create README.md
+
+[33mcommit b94e7c39cbdd104b7b7ba4893d312d633730ba54[m
+Author: Bill Chambers <wchambers@ischool.berkeley.edu>
+Date:   Mon Jun 12 20:15:55 2017 -0700
+
+    Create run-on-databricks.md
+
+[33mcommit e4d25347962946b2a7ba485cf8183be6d18cae42[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Fri Jun 2 07:33:17 2017 -0700
+
+    bike data
+
+[33mcommit fec0993e7d10521e948893e5296f1b69c420ef46[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Thu Jun 1 14:17:12 2017 -0700
+
+    added retail data
+
+[33mcommit 74b88ce8dbf8f6e7ccc37a88eaa410d463061313[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Tue May 30 16:04:44 2017 -0700
+
+    flight data
+
+[33mcommit 55e5bb5f0143212e1903fa6e7c37bf47e8df9bdf[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Fri May 19 09:15:46 2017 -0700
+
+    first pass
+
+[33mcommit c97e320a5e443ac9a23febc5c5e64a4c24182775[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Fri May 19 08:50:45 2017 -0700
+
+    wip
+
+[33mcommit f5aad48715bda11820a9f0d8687ad579a7fd1624[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Fri May 19 08:50:04 2017 -0700
+
+    first pass
+
+[33mcommit 99044618d23301f89f8ca21d454353ac167fb3b8[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Mon May 15 10:08:31 2017 -0700
+
+    add image
+
+[33mcommit 38366d25662a8f93e5ff7a4d54ef5def87cff4f8[m
+Author: Bill Chambers <bill@databricks.com>
+Date:   Mon May 15 10:04:29 2017 -0700
+
+    added readme
